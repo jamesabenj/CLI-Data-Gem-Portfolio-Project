@@ -1,0 +1,6 @@
+require_relative "./Run.rb"
+require_relative "./Game.rb"
+require_relative "./SteamScraper.rb"
+
+scraper = Scraper.new
+scraper.run
