@@ -1,9 +1,0 @@
-Hello! Welcome to the Steam Scraper
-
-Steam is a highly popular video game digital distribution service platform developed by Valve Corporation.
-Their website keeps a minute to minute tracker of the most popular games on the platform. This app will
-scrape data from the website and allow you browse those games. Enjoy!
-
-**LOAD INSTRUCTIONS**
-
-Simply type "ruby console" into terminal once files are loaded 
